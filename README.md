@@ -38,3 +38,5 @@ This section will be updated as the project progresses. The repository will incl
 - Analysis notebooks/code
 - Results and visualizations
 - Documentation
+
+Thanks I received the invitation. I do confirm I can access the documents. Group 15 // Please add this at the evry beginning in the project report name. Mennan Guder
