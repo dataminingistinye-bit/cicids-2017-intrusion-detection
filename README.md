@@ -1,4 +1,4 @@
-# Analysis of the CICIDS 2017 Dataset for Intrusion Detection Research
+# Analysis of the CICIDS 2017 Dataset for Intrusion Detection Research ( Gorup 15 ) 
 
 This repository contains our data mining project analyzing the CICIDS 2017 dataset for intrusion detection research.
 
@@ -21,7 +21,7 @@ The **CICIDS 2017** dataset was developed by the Canadian Institute for Cybersec
   - Port scanning and infiltration
 - **Research relevance**: Widely recognized as one of the most comprehensive IDS datasets for academic research and cybersecurity system development
 
-## Team Members
+## Team Members ( group 15 ) 
 
 Taleb Jarrar      	    220911893   
 Shahem hasunoglu  	    2409015433
