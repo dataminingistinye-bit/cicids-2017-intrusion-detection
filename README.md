@@ -49,13 +49,13 @@ PHASE 2 Readme file
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on applying data mining and machine learning techniques for cybersecurity intrusion detection using the *CICIDS2017 dataset*.  
 The goal is to preprocess large-scale network traffic data, perform exploratory data analysis (EDA), apply feature selection, and evaluate classification models for detecting different types of cyberattacks.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - *Dataset Name:* CICIDS2017
 - *Source:* Canadian Institute for Cybersecurity
 - *Format:* CSV
@@ -68,7 +68,7 @@ Each CSV file represents network traffic collected during different working days
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - *Programming Language:* Python 3
 - *Libraries Used:*
   - pandas
@@ -80,7 +80,7 @@ Each CSV file represents network traffic collected during different working days
 
 ---
 
-## 🔄 Data Preprocessing
+##  Data Preprocessing
 The preprocessing pipeline includes:
 1. Loading and merging 8 CSV files into a single DataFrame
 2. Duplicate detection and removal (10.89% of rows removed)
@@ -91,7 +91,7 @@ The preprocessing pipeline includes:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 EDA was performed to understand data distribution and attack behavior:
 - Class distribution analysis
 - Correlation heatmap of selected features
@@ -106,7 +106,7 @@ Key insights include:
 
 ---
 
-## 🤖 Data Mining Techniques
+##  Data Mining Techniques
 ### Classification Models Applied:
 1. *Random Forest Classifier*
    - High accuracy and robustness
@@ -120,7 +120,7 @@ The dataset was split into *80% training* and *20% testing* using stratified sam
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 | Model | Accuracy | Precision | Recall | F1-score |
 |------|---------|-----------|--------|----------|
 | Random Forest | ~0.95 | ~0.95 | ~0.95 | ~0.95 |
@@ -130,13 +130,13 @@ Random Forest achieved the best overall performance and proved to be the most re
 
 ---
 
-## 🔐 Threat Detection Analysis
+##  Threat Detection Analysis
 - High detection accuracy for common attacks such as *DDoS, **DoS, and **PortScan*
 - Lower performance on rare attacks such as *Infiltration* and *Heartbleed*, even after applying SMOTE
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ├── data/
 │   └── sample_data.csv
 ├── notebooks/
@@ -152,13 +152,13 @@ Random Forest achieved the best overall performance and proved to be the most re
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on applying data mining and machine learning techniques for cybersecurity intrusion detection using the *CICIDS2017 dataset*.  
 The goal is to preprocess large-scale network traffic data, perform exploratory data analysis (EDA), apply feature selection, and evaluate classification models for detecting different types of cyberattacks.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - *Dataset Name:* CICIDS2017
 - *Source:* Canadian Institute for Cybersecurity
 - *Format:* CSV
@@ -171,7 +171,7 @@ Each CSV file represents network traffic collected during different working days
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - *Programming Language:* Python 3
 - *Libraries Used:*
   - pandas
@@ -183,7 +183,7 @@ Each CSV file represents network traffic collected during different working days
 
 ---
 
-## 🔄 Data Preprocessing
+##  Data Preprocessing
 The preprocessing pipeline includes:
 1. Loading and merging 8 CSV files into a single DataFrame
 2. Duplicate detection and removal (10.89% of rows removed)
@@ -194,7 +194,7 @@ The preprocessing pipeline includes:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 EDA was performed to understand data distribution and attack behavior:
 - Class distribution analysis
 - Correlation heatmap of selected features
@@ -209,7 +209,7 @@ Key insights include:
 
 ---
 
-## 🤖 Data Mining Techniques
+##  Data Mining Techniques
 ### Classification Models Applied:
 1. *Random Forest Classifier*
    - High accuracy and robustness
@@ -223,7 +223,7 @@ The dataset was split into *80% training* and *20% testing* using stratified sam
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 | Model | Accuracy | Precision | Recall | F1-score |
 |------|---------|-----------|--------|----------|
 | Random Forest | ~0.95 | ~0.95 | ~0.95 | ~0.95 |
@@ -233,13 +233,13 @@ Random Forest achieved the best overall performance and proved to be the most re
 
 ---
 
-## 🔐 Threat Detection Analysis
+##  Threat Detection Analysis
 - High detection accuracy for common attacks such as *DDoS, **DoS, and **PortScan*
 - Lower performance on rare attacks such as *Infiltration* and *Heartbleed*, even after applying SMOTE
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ├── data/
 │   └── sample_data.csv
 ├── notebooks/
