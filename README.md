@@ -252,8 +252,9 @@ Random Forest achieved the best overall performance and proved to be the most re
 └── requirements.txt
 ---
 ## ▶️ How to Run the Notebook
-1. Open the Kaggle Notebook
-2. Ensure the CICIDS2017 CSV files are available in the input directory  
-3. Run the notebook cells sequentially from top to bottom  
-4. The notebook will perform preprocessing, EDA, feature selection, and model training  
-5. Results and visualizations will be displayed within the notebook
+1. go to https://www.kaggle.com/code/mohammedrahmaniii/person2-datapreprocessing-final
+2. Open the Kaggle Notebook 
+3. Ensure the CICIDS2017 CSV files are available in the input directory  
+4. Run the notebook cells sequentially from top to bottom  
+5. The notebook will perform preprocessing, EDA, feature selection, and model training  
+6. Results and visualizations will be displayed within the notebook
