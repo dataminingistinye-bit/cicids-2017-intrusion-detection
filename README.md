@@ -1,4 +1,6 @@
 # Analysis of the CICIDS 2017 Dataset for Intrusion Detection Research ( Group 15 ) 
+Our project in kaggle 
+link : https://www.kaggle.com/code/mohammedrahmaniii/person2-datapreprocessing-final
 
 This repository contains our data mining project analyzing the CICIDS 2017 dataset for intrusion detection research.
 
